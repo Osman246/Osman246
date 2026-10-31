@@ -9,32 +9,9 @@ question, and share what I learn along the way.
 
 Got an idea, some feedback, or something you'd like to build together? I'd love to hear from you.
 
-<p>
-  <a href="https://github.com/Osman246/DeskBar">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-deskbar-dark.png">
-      <img src="assets/card-deskbar-light.png" alt="01, Mac app. Is my Mac OK? DeskBar gives one verdict instead of four places to check." width="49%">
-    </picture>
-  </a>
-  <a href="https://github.com/Osman246/DeskBar/releases/latest">
-    <img src="assets/deskbar.gif" alt="DeskBar demo: four windows collapse into the menu bar, then the panel opens." width="49%">
-  </a>
-</p>
+<p><a href="https://github.com/Osman246/DeskBar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-deskbar-dark.png"><img src="assets/card-deskbar-light.png" alt="01, Mac app. Is my Mac OK? DeskBar gives one verdict instead of four places to check." width="49%"></picture></a><a href="https://github.com/Osman246/DeskBar/releases/latest"><img src="assets/deskbar.gif" alt="DeskBar demo: four windows collapse into the menu bar, then the panel opens." width="49%"></a></p>
 
-<p>
-  <a href="https://github.com/Osman246/Weather_Prediction">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-weather-dark.png">
-      <img src="assets/card-weather-light.png" alt="02, Machine learning. Can 60 years of weather predict tomorrow? Within 3.4 °F on average." width="49%">
-    </picture>
-  </a>
-  <a href="https://github.com/Osman246/Olympic_Prediction">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-olympics-dark.png">
-      <img src="assets/card-olympics-light.png" alt="03, Machine learning. How many medals will a country win? Within 3.3 medals on average." width="49%">
-    </picture>
-  </a>
-</p>
+<p><a href="https://github.com/Osman246/Weather_Prediction"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-weather-dark.png"><img src="assets/card-weather-light.png" alt="02, Machine learning. Can 60 years of weather predict tomorrow? Within 3.4 °F on average." width="49%"></picture></a><a href="https://github.com/Osman246/Olympic_Prediction"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-olympics-dark.png"><img src="assets/card-olympics-light.png" alt="03, Machine learning. How many medals will a country win? Within 3.3 medals on average." width="49%"></picture></a></p>
 
 ### How I work
 
